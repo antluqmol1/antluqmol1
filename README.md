@@ -12,12 +12,11 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Student` at [UiT The Arctic University of Norway](https://en.uit.no/startsida) in [Tromsø](https://en.wikipedia.org/wiki/University_of_Troms%C3%B8)
+- :school: I am a `Student` in my 3rd year at [UiT The Arctic University of Norway](https://en.uit.no/startsida) in [Tromsø](https://en.wikipedia.org/wiki/University_of_Troms%C3%B8)
 - :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
+- :technologist: **Currently working on** `Cloud Computing` **&** `Computer Architecture`
 - :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=antoniomluquemolina&amp;color=EA4335&amp;style=flat-square)](mailto:antoniomluquemolina@gmail.com)
-
+- :email: Feel free to `reach me out`: **antoniomluquemolina@gmail.com**
 <br>
 
 ## 🛠️ My Skills
